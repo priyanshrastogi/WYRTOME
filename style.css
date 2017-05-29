@@ -1,0 +1,34 @@
+body {
+    background-color: #05223b
+}
+
+.jumbotron {
+    background: transparent;
+}
+
+.game-head {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: #F1C40F
+}
+
+#relationship {
+    margin-bottom: 200px;
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    color: #FF5733;
+}
+
+#info {
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    margin-bottom: 100px;
+    color: #D32F2F;
+}
+
+.copyright {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 50px;
+    color: white;
+}
